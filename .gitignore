@@ -1,0 +1,21 @@
+# Arduino
+*.elf
+*.hex
+*.ino.cpp
+*.ino.hex
+build/
+.arduino/
+
+# Python (si subes los scripts de análisis de datos)
+__pycache__/
+*.py[cod]
+*.csv
+
+# CAD / 3D Printing (Opcional: descomenta si NO quieres subir los archivos pesados)
+# *.stl
+# *.obj
+# *.gcode
+
+# OS Files
+.DS_Store
+Thumbs.db
